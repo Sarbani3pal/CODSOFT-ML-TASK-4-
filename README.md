@@ -1,4 +1,5 @@
-<center># CODSOFT-ML-TASK-4-</center>
+# CODSOFT-ML-TASK-4-
+
 # SMS Spam Detection ML Project
 
 This project aims to detect SMS spam messages using machine learning techniques.
@@ -12,7 +13,7 @@ This project aims to detect SMS spam messages using machine learning techniques.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/sms-spam-detection.git`
+1. Clone the repository: `git clone  https://github.com/Sarbani3pal/CODSOFT-ML-TASK-4-.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
